@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Hunter",
+  "description": "High-security hybrid multi-cloud manager and global storage aggregator for Google Drive, TeraBox, MEGA, and Telegram with biometric app-lock, Google Gallery media view, anti-tracking browser, and local cache smart search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
